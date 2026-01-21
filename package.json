@@ -1,0 +1,16 @@
+{
+  "name": "integration-with-jira",
+  "version": "1.0.0",
+  "description": "Sample project for Jira integration with git workflow examples",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"Building project...\" && echo \"Build complete\"",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["jira", "integration", "git", "workflow"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
